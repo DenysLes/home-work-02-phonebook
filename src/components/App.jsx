@@ -1,4 +1,4 @@
-import { MyComponent } from 'react';
+import { MyComponent } from '../components/MyComponent/MyComponent';
 
 export const App = () => {
   return (
